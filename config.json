@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpetch",
+        "uuid": 3140903,
+        "checksum": "nabim"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
